@@ -3,7 +3,12 @@
 Contexto
 Uma empresa Edtech está focada em acelerar seu crescimento aumentando o número de usuários cadastrados. Portanto, foi solicitado uma análise de vários aspectos da aquisição de clientes para ver o status do crescimento de novos usuários na empresa.
 
-A empresa disponibilizou algumas bases de dados, "leads_basic_details", "sales_managers_assigned_leads_details", "leads_interaction_details", "leads_demo_watched_details", e "leads_reasons_for_no_interest"
+A empresa disponibilizou algumas bases de dados:
+* leads_basic_details
+* sales_managers_assigned_leads_details
+* leads_interaction_details
+* leads_demo_watched_details
+* leads_reasons_for_no_interest
 
 ### Passos das análises
 
