@@ -1,6 +1,6 @@
 # Construção de dashboard e apresentação a partir de análises com SQL
 
-Contexto
+### Contexto
 Uma empresa Edtech está focada em acelerar seu crescimento aumentando o número de usuários cadastrados. Portanto, foi solicitado uma análise de vários aspectos da aquisição de clientes para ver o status do crescimento de novos usuários na empresa.
 
 A empresa disponibilizou algumas bases de dados:
